@@ -6,10 +6,16 @@
   <component name="BackendCodeEditorMiscSettings">
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+<<<<<<< Updated upstream
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4c7cd1d-ac02-49dc-bec8-3d1c06a0e3d1" name="Changes" comment="" />
+=======
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70aed784-c646-41bb-8679-2e1676b0f38a" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,19 +27,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+<<<<<<< Updated upstream
   <component name="MacroExpansionManager">
     <option name="directoryName" value="mS8BqWZK" />
   </component>
+=======
+>>>>>>> Stashed changes
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
     <option name="minorVersion" value="3.3" />
     <option name="productBranch" value="Classic" />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="3Cm6xevdlPpaTpngjOb8WqLN4WA" />
+=======
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3DEVahI0rRk9IEKUT5WTQ66j1Ke" />
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,6 +66,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+<<<<<<< Updated upstream
     "git-widget-placeholder": "laba2",
     "nodejs_package_manager_path": "npm",
     "org.rust.first.attach.projects": "true",
@@ -107,6 +125,20 @@
       <updated>1776978645875</updated>
       <workItem from="1776978646961" duration="21000" />
       <workItem from="1776978834301" duration="299000" />
+=======
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70aed784-c646-41bb-8679-2e1676b0f38a" name="Changes" comment="" />
+      <created>1777847336710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777847336710</updated>
+      <workItem from="1777847339731" duration="14000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
